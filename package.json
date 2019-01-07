@@ -7,7 +7,7 @@
     "my-module": "bin/myfirstmodule.js"
   },
   "keywords": [],
-  "author": "Thiago da Silva Adriano",
+  "author": "cleverton rocha",
   "license": "ISC",
   "preferGlobal": "true"
 }
